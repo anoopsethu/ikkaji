@@ -57,7 +57,9 @@ h1,h2,h3,h4,h5,h6,p{
 	height: 48px;
 	height: 48px;
 	display: inline-block;
-	margin: 0px 10px !important;
+	border: 5px solid #fff;
+	border-radius: 4px;
+	outline: none;
 }
 .carousel-nav-item img{
 	width: 100%;
