@@ -17,7 +17,6 @@ h1,h2,h3,h4,h5,h6,p{
 }
 .carousel-section{
 	background: #fff;
-	padding: 20px 0px;
 }
 .footer-section{
 	padding: 30px 0px;
@@ -87,5 +86,8 @@ h1,h2,h3,h4,h5,h6,p{
 	.carousel-image-item{
 		height: 320px;
 		border-radius: 6px;
+	}
+	.carousel-section{
+		padding: 20px 0px;
 	}
 }
